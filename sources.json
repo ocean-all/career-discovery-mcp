@@ -1,0 +1,5 @@
+{
+  "hosts": {},
+  "pages": [],
+  "notes": "Add exact employer/attachment hosts only after reviewing terms and recording a permission_reference. robots.txt is checked in addition. No site is implicitly permitted. See examples/sources.example.json."
+}

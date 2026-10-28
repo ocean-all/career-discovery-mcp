@@ -1,0 +1,15 @@
+[
+  {
+    "source": "demo", "source_id": "fiction-1",
+    "url": "https://example.com/fictional-retail-job",
+    "title": "[가상] 매장 운영 연구 신입", "company": "가상회사 (실제 공고 아님)",
+    "text": "물류 학력무관 신입 연구 Excel 재고관리 AI 수요예측",
+    "deadline": "2026-10-29T18:00:00+09:00", "verification": "demo_only", "confidence": 0
+  },
+  {
+    "source": "demo", "source_id": "fiction-2",
+    "url": "https://example.com/fictional-strategy-job",
+    "title": "[가상] 유통 기술전략 사업기획 신입", "company": "가상회사2 (실제 공고 아님)",
+    "text": "유통 신입 기술전략 사업기획 학력무관 Excel 우대", "confidence": 0, "verification": "demo_only"
+  }
+]

@@ -1,0 +1,6 @@
+interface:
+  display_name: "대화형 한국 채용 탐색"
+  short_description: "관심 직무·산업을 대화로 구체화하고 인접 직무까지 탐색"
+  default_prompt: "$career-discovery로 내 관심 직무와 산업을 함께 구체화하고 채용 검색 범위를 정해 줘."
+policy:
+  allow_implicit_invocation: true

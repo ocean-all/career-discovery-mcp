@@ -1,0 +1,26 @@
+{
+  "hosts": {
+    "careers.example.com": {
+      "allow_fetch": true,
+      "permission_reference": "Replace with actual employer terms/permission URL and review date"
+    }
+  },
+  "pages": [
+    {
+      "url": "https://careers.example.com/jobs/123",
+      "company": "실제 회사명",
+      "title": "실제 원문 제목",
+      "expected_terms": ["실제 회사명", "직무 식별 문구"],
+      "kind": "posting",
+      "deadline": null,
+      "discovered_via": "manual:jobkorea"
+    },
+    {
+      "url": "https://careers.example.com/jobs",
+      "company": "실제 회사명",
+      "kind": "index",
+      "link_pattern": "/jobs/[0-9]+",
+      "expected_terms": ["실제 회사명"]
+    }
+  ]
+}

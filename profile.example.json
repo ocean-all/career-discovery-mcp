@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "state": "draft",
+  "user_intent": "",
+  "roles": [],
+  "industries": [],
+  "skills": [],
+  "education_keywords": [],
+  "locations": [],
+  "experience": "unknown",
+  "must_have": [],
+  "exclude_keywords": [],
+  "search_terms": [],
+  "proposed_expansions": [],
+  "days": 30
+}
